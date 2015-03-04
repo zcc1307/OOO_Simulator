@@ -1,5 +1,5 @@
 Source Code for an MIPS R10K Simulator
-A53021318 Chicheng Zhang
+Chicheng Zhang
 Instructions:
 when running a sim, suppose the test trace file is input.txt, type in the following command: 
 

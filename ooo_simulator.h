@@ -1,5 +1,5 @@
 //Out of Order Simulator
-//A53021318 Chicheng Zhang
+//Chicheng Zhang
 //Date:12.19.2014
 #include <iostream>
 #include <fstream>
